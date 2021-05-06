@@ -1,0 +1,43 @@
+/*  ------------------------------------------
+               Lode Extra Variables
+                      v0.1.6.1
+                - leeprky#2063 -
+    ------------------------------------------  */
+
+@import url(https://raw.githack.com/leeprky/FullyThemedDiscord/main/FullyThemedDiscord.theme.css);
+@import url(https://raw.githack.com/leeprky/MyThemesBasesStuffYeah/lode/round-stuff.css);
+@import url(https://raw.githack.com/leeprky/MyThemesBasesStuffYeah/lode/alt-color.css);
+@import url(https://raw.githack.com/leeprky/GreenBeGo/main/greenple-replacer.theme.css);
+
+@import url(https://ghostmander.github.io/discordfont/DiscordFont.css);
+@import url(https://raw.githack.com/NYRI4/Discolored/master/main.css);
+@import url(https://raw.githack.com/leeprky/Lode/main/default/support/plugins/plugin-styles.css);
+
+/* Global Recolouring */
+.headerSpotify-zpWxgT,.topSectionSpotify-1lI0-P{background:var(--spotify-color)}
+.attachButtonPlay-3iJ0mf{color:var(--spotify-color)}
+.headerStreaming-2FjmG,.topSectionStreaming-1Tpf5X{background:var(--streaming-color)}
+.streamerModeEnabledBtn-2ZJ2eq{background-color:var(--streaming-color)}
+.headerPlaying-j0WQBV,.topSectionPlaying-1J5E4n{background:var(--playing-color)}
+.headerNormal-T_seeN,.headerTop-3C2Zn0,.topSectionNormal-2-vo2m{background:var(--modal-normal-color)}
+.theme-dark .body-3iLsc4,.theme-dark .footer-1fjuF6{background-color:var(--modal-normal-secondary-color)}
+.scroller-1Bvpku{background-color:var(--serverlist-background)}
+.members-1998pB,.members-1998pB>div{background-color:var(--memberlist-background)}
+.mentioned-xhSam7:before{background-color:var(--mentioned-line)}
+.theme-dark .tooltipPrimary-1d1ph4,.theme-light .tooltipPrimary-1d1ph4{background-color:var(--background-accent)}
+.header-2BwW8b{border-radius:0 0 12px 12px}
+.isUnread-3Ef-o9,.unreadPill-2HyYtt{border-color:var(--background-accent);background-color:var(--background-accent)}
+.isUnread-3Ef-o9 .content-1o0f9g{color:var(--background-accent)}
+.unreadPillCapStroke-7rkHbg{fill:var(--background-accent);color:var(--background-accent)}
+.updateIconForeground-3tnNZn{fill:var(--background-accent)}
+.theme-light .title-eS5yk3{color:var(--subtext-color)}
+.theme-light .panels-j1Uci_ .button-14-BFJ{color:var(--subtext-color)}
+.theme-light .subtext-3CDbHg{color:var(--subtext-color)}
+.theme-light .nameTag-3uD-yy{margin-left:-7px}
+.theme-light .container-3baos1 .avatar-SmRMf2{margin-left:-5px}
+.theme-light .nameTag-3uD-yy.canCopy-2VBT7N{margin-left:0}
+.theme-light .subtext-3CDbHg{color:var(--subtext-color)!important}
+.theme-dark .form-26zE04,.theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV,.theme-dark .root-1gCeng{background-color:#191f30}
+.input--jS-j2,.theme-dark .footer-2gL1pp{background-color:#181818}
+.theme-dark .container-UC8Ug1{background-color:#181818}
+.theme-dark .colorHeaderSecondary-3Sp3Ft,.theme-dark .contents-18-Yxp,.theme-dark .footerTitle-2CYZch,.theme-dark .h5-18_1nd,.theme-dark .iconContainer-2B0ixr,.theme-dark .input-cIJ7To,.theme-dark .lookFilled-1Gx00P .contents-18-Yxp,.theme-dark .lookInverted-2D7oAl .contents-18-Yxp,.theme-dark .lookLink-9FtZy- .contents-18-Yxp,.theme-dark .lookOutlined-3sRXeN .contents-18-Yxp,.theme-dark .optionHeader-1-5lcp,.theme-dark .subtitle-1KdHaN,.theme-dark .subtitle-1Q3BuX,.theme-dark .subtitle-Nw1LLR,.theme-dark .text-1FOLJS,.theme-dark .title-3w8xhj,.theme-dark .title-LqAd9K,.theme-dark .title-XLSR78,.theme-dark .title-Z_XiOC{color:#f3efef}
