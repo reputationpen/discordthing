@@ -8,7 +8,7 @@
  * @website https://www.gibbu.me
 */
 
-@import url("https://raw.githack.com/reputationpen/discordthing/main/base1.css");
+@import url("https://raw.githack.com/reputationpen/discordthing/main/base.css");
 
 :root {
   --HSL-server-icon-size: 40px;  /* Size of the server icons | DEFAULT: 40px */
